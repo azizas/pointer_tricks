@@ -1,2 +1,2 @@
 # pointer_tricks
-IT includes some tricks that C/C++ pointers that trciks me mostly. 
+It includes some tricks that C/C++ pointers have trciked me mostly. 
